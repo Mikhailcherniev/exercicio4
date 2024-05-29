@@ -1,0 +1,7 @@
+C:\Users\46287762888\Desktop\CSharp\exe4_CSharp\exe4_CSharp\obj\Debug\exe4_CSharp.csproj.AssemblyReference.cache
+C:\Users\46287762888\Desktop\CSharp\exe4_CSharp\exe4_CSharp\obj\Debug\exe4_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\46287762888\Desktop\CSharp\exe4_CSharp\exe4_CSharp\bin\Debug\exe4_CSharp.exe.config
+C:\Users\46287762888\Desktop\CSharp\exe4_CSharp\exe4_CSharp\bin\Debug\exe4_CSharp.exe
+C:\Users\46287762888\Desktop\CSharp\exe4_CSharp\exe4_CSharp\bin\Debug\exe4_CSharp.pdb
+C:\Users\46287762888\Desktop\CSharp\exe4_CSharp\exe4_CSharp\obj\Debug\exe4_CSharp.exe
+C:\Users\46287762888\Desktop\CSharp\exe4_CSharp\exe4_CSharp\obj\Debug\exe4_CSharp.pdb
